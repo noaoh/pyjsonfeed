@@ -1,0 +1,587 @@
+{
+  "version": "https://jsonfeed.org/version/1",
+  "title": "Technology",
+  "home_page_url": "https://www.npr.org/sections/technology/?utm_medium=JSONFeed&utm_campaign=technology",
+  "feed_url": "https://www.npr.org/feeds/1019/feed.json",
+  "description": "Latest technology news and breakthroughs in technology, science, and industry. Download the NPR Technology podcast and Technology RSS feed.",
+  "icon": "https://media.npr.org/images/stations/nprone_logos/npr.png",
+  "author": {
+    "name": "NPR",
+    "url": "http://www.npr.org/?utm_medium=JSONFeed&utm_campaign=technology",
+    "avatar": "https://media.npr.org/images/stations/nprone_logos/npr.png"
+  },
+  "items": [
+    {
+      "id": "645704776",
+      "url": "https://www.npr.org/2018/09/09/645704776/a-documentary-swipes-left-on-dating-apps?utm_medium=JSONFeed&utm_campaign=technology",
+      "title": "A Documentary Swipes Left On Dating Apps",
+      "content_html": "<p>Journalist Nancy Jo Sales investigates the impact of online dating tech on offline culture in her first film <em>Swiped: Hooking Up in the Digital Age. </em>Predictably, some of her findings are pretty bleak.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=645704776' />",
+      "summary": "Journalist Nancy Jo Sales investigates the impact of online dating tech on offline culture in her first film Swiped: Hooking Up in the Digital Age. Predictably, some of her findings are pretty bleak.",
+      "image": "https://media.npr.org/assets/img/2018/09/07/swiped_wide-f153951414059b64ede51a80a1e8a523f893a9b8.jpg",
+      "date_published": "2018-09-09T17:46:45-04:00",
+      "date_modified": "2018-09-09T17:56:00-04:00",
+      "author": {
+        "name": "Michel Martin",
+        "url": "https://www.npr.org/people/5201175/michel-martin?utm_medium=JSONFeed&utm_campaign=technology",
+        "avatar": "https://media.npr.org/assets/img/2014/10/31/martin_bio2_sq-aed91a2b1da7834d384a340be0eb939aaa0cca49.jpg"
+      },
+      "tags": [
+        "Tinder",
+        "online dating"
+      ],
+      "attachments": [
+        {
+          "url": "https://ondemand.npr.org/anon.npr-mp3/npr/atc/2018/09/20180909_atc_a_documentary_swipes_left_on_dating_apps.mp3?orgId=1&d=499&p=646115596&story=645704776&t=progseg&e=646115596&seg=5&ft=rss&f=646115596",
+          "mime_type": "audio/mp3",
+          "title": "Listen to the Story",
+          "duration_in_seconds": 499
+        },
+        {
+          "url": "https://ondemand.npr.org/npr-mp4/npr/atc/2018/09/20180909_atc_a_documentary_swipes_left_on_dating_apps.mp4?orgId=1&d=499&p=646115596&story=645704776&t=progseg&e=646115596&seg=5&ft=rss&f=646115596",
+          "mime_type": "audio/aac",
+          "title": "Listen to the Story",
+          "duration_in_seconds": 499
+        },
+        {
+          "url": "https://ondemandhls.npr.org/nprhls//npr/atc/2018/09/20180909_atc_a_documentary_swipes_left_on_dating_apps/master.m3u8?orgId=1&d=499&p=646115596&story=645704776&t=progseg&e=646115596&seg=5&ft=rss&f=646115596",
+          "mime_type": "audio/m3u8",
+          "title": "Listen to the Story",
+          "duration_in_seconds": 499
+        }
+      ]
+    },
+    {
+      "id": "645913799",
+      "url": "https://www.npr.org/2018/09/08/645913799/barbershop-online-censorship?utm_medium=JSONFeed&utm_campaign=technology",
+      "title": "Barbershop: Online Censorship",
+      "content_html": "<p>This week, Alex Jones was permanently suspended from Twitter and Steve Bannon was uninvited from <em>The New Yorker</em>'s annual festival. NPR's Michel Martin takes up the issue of censorship with Kara Swisher, Charlie Sykes and Megan McArdle.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=645913799' />",
+      "summary": "This week, Alex Jones was permanently suspended from Twitter and Steve Bannon was uninvited from The New Yorker's annual festival. NPR's Michel Martin takes up the issue of censorship with Kara Swisher, Charlie Sykes and Megan McArdle.",
+      "date_published": "2018-09-08T17:06:14-04:00",
+      "date_modified": "2018-09-08T20:04:00-04:00",
+      "attachments": [
+        {
+          "url": "https://ondemand.npr.org/anon.npr-mp3/npr/atc/2018/09/20180908_atc_barbershop_online_censorship.mp3?orgId=1&d=661&p=645913758&story=645913799&t=progseg&e=645913758&seg=4&ft=rss&f=645913758",
+          "mime_type": "audio/mp3",
+          "title": "Listen to the Story",
+          "duration_in_seconds": 661
+        },
+        {
+          "url": "https://ondemand.npr.org/npr-mp4/npr/atc/2018/09/20180908_atc_barbershop_online_censorship.mp4?orgId=1&d=661&p=645913758&story=645913799&t=progseg&e=645913758&seg=4&ft=rss&f=645913758",
+          "mime_type": "audio/aac",
+          "title": "Listen to the Story",
+          "duration_in_seconds": 661
+        },
+        {
+          "url": "https://ondemandhls.npr.org/nprhls//npr/atc/2018/09/20180908_atc_barbershop_online_censorship/master.m3u8?orgId=1&d=661&p=645913758&story=645913799&t=progseg&e=645913758&seg=4&ft=rss&f=645913758",
+          "mime_type": "audio/m3u8",
+          "title": "Listen to the Story",
+          "duration_in_seconds": 661
+        }
+      ]
+    },
+    {
+      "id": "645665414",
+      "url": "https://www.npr.org/2018/09/07/645665414/sweden-says-so-long-to-countrys-shared-twitter-account?utm_medium=JSONFeed&utm_campaign=technology",
+      "title": "Sweden Says So Long To Country's Shared Twitter Account",
+      "content_html": "<p>The time has come to an end for the @sweden Twitter account. As NPR reported in 2015, it was passed from person to person each week.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=645665414' />",
+      "summary": "The time has come to an end for the @sweden Twitter account. As NPR reported in 2015, it was passed from person to person each week.",
+      "date_published": "2018-09-07T17:18:00-04:00",
+      "date_modified": "2018-09-07T20:58:00-04:00",
+      "attachments": [
+        {
+          "url": "https://ondemand.npr.org/anon.npr-mp3/npr/atc/2018/09/20180907_atc_so_long_sweden.mp3?orgId=1&d=117&p=645481197&story=645665414&t=progseg&e=645481197&seg=12&ft=rss&f=645481197",
+          "mime_type": "audio/mp3",
+          "title": "Listen to the Story",
+          "duration_in_seconds": 117
+        },
+        {
+          "url": "https://ondemand.npr.org/npr-mp4/npr/atc/2018/09/20180907_atc_so_long_sweden.mp4?orgId=1&d=117&p=645481197&story=645665414&t=progseg&e=645481197&seg=12&ft=rss&f=645481197",
+          "mime_type": "audio/aac",
+          "title": "Listen to the Story",
+          "duration_in_seconds": 117
+        },
+        {
+          "url": "https://ondemandhls.npr.org/nprhls//npr/atc/2018/09/20180907_atc_so_long_sweden/master.m3u8?orgId=1&d=117&p=645481197&story=645665414&t=progseg&e=645481197&seg=12&ft=rss&f=645481197",
+          "mime_type": "audio/m3u8",
+          "title": "Listen to the Story",
+          "duration_in_seconds": 117
+        }
+      ]
+    },
+    {
+      "id": "645565601",
+      "url": "https://www.npr.org/2018/09/07/645565601/a-55-square-mile-wind-farm-is-now-operating-off-englands-shore?utm_medium=JSONFeed&utm_campaign=technology",
+      "title": "A 55-Square-Mile Wind Farm Is Now Operating Off England's Shore",
+      "content_html": "<p>The owners say it's the largest offshore wind farm in the world. Each of its 87 turbines stands more than twice as tall as the Statue of Liberty.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=645565601' />",
+      "summary": "The owners say it's the largest offshore wind farm in the world. Each of its 87 turbines stands more than twice as tall as the Statue of Liberty.",
+      "image": "https://media.npr.org/assets/img/2018/09/07/rts20ch1-34eaaf761f73204f0e537ab68d4792b250f7f19b.jpg",
+      "date_published": "2018-09-07T15:11:00-04:00",
+      "date_modified": "2018-09-07T18:19:00-04:00",
+      "author": {
+        "name": "Bill Chappell",
+        "url": "https://www.npr.org/people/14562108/bill-chappell?utm_medium=JSONFeed&utm_campaign=technology"
+      },
+      "tags": [
+        "wind farms",
+        "wind",
+        "energy"
+      ]
+    },
+    {
+      "id": "645524670",
+      "url": "https://www.npr.org/2018/09/07/645524670/british-airways-says-customers-financial-data-was-hacked-in-380-00-transactions?utm_medium=JSONFeed&utm_campaign=technology",
+      "title": "British Airways Says Customers' Financial Data Was Hacked In 380,000 Transactions",
+      "content_html": "<p>\"The stolen data did not include travel or passport details,\" the airline said. But hackers were able to access customers' names, email addresses and credit card information.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=645524670' />",
+      "summary": "\"The stolen data did not include travel or passport details,\" the airline said. But hackers were able to access customers' names, email addresses and credit card information.",
+      "image": "https://media.npr.org/assets/img/2018/09/07/gettyimages-1024416058_wide-b8e998936134820a573ad6042535941065a7c67e.jpg",
+      "date_published": "2018-09-07T10:17:00-04:00",
+      "date_modified": "2018-09-07T15:15:00-04:00",
+      "author": {
+        "name": "Bill Chappell",
+        "url": "https://www.npr.org/people/14562108/bill-chappell?utm_medium=JSONFeed&utm_campaign=technology"
+      },
+      "tags": [
+        "data breach",
+        "british airways"
+      ]
+    },
+    {
+      "id": "645653748",
+      "url": "https://the1a.org/shows/2018-09-07/friday-news-roundup-domestic?utm_medium=JSONFeed&utm_campaign=technology",
+      "title": "Friday News Roundup - Domestic",
+      "content_html": "<p>An anonymous affair.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=645653748' />",
+      "summary": "An anonymous affair.",
+      "image": "https://media.npr.org/wp-content/uploads/2018/09/GettyImages-1027343100.jpg",
+      "date_published": "2018-09-07T10:06:30-04:00",
+      "date_modified": "2018-09-07T16:09:00-04:00",
+      "attachments": [
+        {
+          "url": "https://downloads.wamu.org/mp3/1a/18/09/a1180907.mp3?orgId=305&d=2880&p=645653803&story=645653748&t=progseg&e=645653803&seg=1&ft=rss&f=645653803",
+          "mime_type": "audio/mp3",
+          "duration_in_seconds": 2880
+        }
+      ]
+    },
+    {
+      "id": "645459720",
+      "url": "https://www.npr.org/2018/09/07/645459720/morning-news-brief-brett-kavanaugh-alex-jones?utm_medium=JSONFeed&utm_campaign=technology",
+      "title": "Morning News Brief: Brett Kavanaugh, Alex Jones",
+      "content_html": "<p>It's Day 4 of Supreme Court nominee Kavanaugh's confirmation hearings. Twitter bans conspiracy theorist Alex Jones. New York and New Jersey launch probes into Catholic Church sex abuse allegations.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=645459720' />",
+      "summary": "It's Day 4 of Supreme Court nominee Kavanaugh's confirmation hearings. Twitter bans conspiracy theorist Alex Jones. New York and New Jersey launch probes into Catholic Church sex abuse allegations.",
+      "date_published": "2018-09-07T05:02:00-04:00",
+      "date_modified": "2018-09-07T08:20:00-04:00",
+      "author": {
+        "name": "Steve Inskeep",
+        "url": "https://www.npr.org/people/4080709/steve-inskeep?utm_medium=JSONFeed&utm_campaign=technology",
+        "avatar": "https://media.npr.org/assets/img/2011/09/12/steveinskeep_vert-59449edb7e33d0ba33ed6af25d1c58fb6497f089.jpg"
+      },
+      "attachments": [
+        {
+          "url": "https://ondemand.npr.org/anon.npr-mp3/npr/me/2018/09/20180907_me_morning_news_brief.mp3?orgId=1&d=664&p=645441834&story=645459720&t=progseg&e=645441834&seg=1&ft=rss&f=645441834",
+          "mime_type": "audio/mp3",
+          "title": "Listen to the Story",
+          "duration_in_seconds": 664
+        },
+        {
+          "url": "https://ondemand.npr.org/npr-mp4/npr/me/2018/09/20180907_me_morning_news_brief.mp4?orgId=1&d=664&p=645441834&story=645459720&t=progseg&e=645441834&seg=1&ft=rss&f=645441834",
+          "mime_type": "audio/aac",
+          "title": "Listen to the Story",
+          "duration_in_seconds": 664
+        },
+        {
+          "url": "https://ondemandhls.npr.org/nprhls//npr/me/2018/09/20180907_me_morning_news_brief/master.m3u8?orgId=1&d=664&p=645441834&story=645459720&t=progseg&e=645441834&seg=1&ft=rss&f=645441834",
+          "mime_type": "audio/m3u8",
+          "title": "Listen to the Story",
+          "duration_in_seconds": 664
+        }
+      ]
+    },
+    {
+      "id": "645459755",
+      "url": "https://www.npr.org/2018/09/07/645459755/conspiracy-theorist-alex-jones-bannd-from-twitter-for-abusive-behavior?utm_medium=JSONFeed&utm_campaign=technology",
+      "title": "Conspiracy Theorist Alex Jones Banned From Twitter For Abusive Behavior",
+      "content_html": "<p>Rachel Martin talks to Tony Romm of <em>The Washington Post</em> about Twitter permanently suspending Jones and his InfoWars outlet \u00e2\u0080\u0094 citing tweets and videos that violate Twitter's policy on abusive behavior.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=645459755' />",
+      "summary": "Rachel Martin talks to Tony Romm of The Washington Post about Twitter permanently suspending Jones and his InfoWars outlet \u00e2\u0080\u0094 citing tweets and videos that violate Twitter's policy on abusive behavior.",
+      "date_published": "2018-09-07T05:02:00-04:00",
+      "date_modified": "2018-09-07T08:20:00-04:00",
+      "attachments": [
+        {
+          "url": "https://ondemand.npr.org/anon.npr-mp3/npr/me/2018/09/20180907_me_conspiracy_theorist_alex_jones_bannd_from_twitter_for_abusive_behavior.mp3?orgId=1&d=222&p=645441834&story=645459755&t=progseg&e=645441834&seg=4&ft=rss&f=645441834",
+          "mime_type": "audio/mp3",
+          "title": "Listen to the Story",
+          "duration_in_seconds": 222
+        },
+        {
+          "url": "https://ondemand.npr.org/npr-mp4/npr/me/2018/09/20180907_me_conspiracy_theorist_alex_jones_bannd_from_twitter_for_abusive_behavior.mp4?orgId=1&d=222&p=645441834&story=645459755&t=progseg&e=645441834&seg=4&ft=rss&f=645441834",
+          "mime_type": "audio/aac",
+          "title": "Listen to the Story",
+          "duration_in_seconds": 222
+        },
+        {
+          "url": "https://ondemandhls.npr.org/nprhls//npr/me/2018/09/20180907_me_conspiracy_theorist_alex_jones_bannd_from_twitter_for_abusive_behavior/master.m3u8?orgId=1&d=222&p=645441834&story=645459755&t=progseg&e=645441834&seg=4&ft=rss&f=645441834",
+          "mime_type": "audio/m3u8",
+          "title": "Listen to the Story",
+          "duration_in_seconds": 222
+        }
+      ]
+    },
+    {
+      "id": "645352618",
+      "url": "https://www.npr.org/2018/09/06/645352618/twitter-bans-alex-jones-and-infowars-cites-abusive-behavior?utm_medium=JSONFeed&utm_campaign=technology",
+      "title": "Twitter Bans Alex Jones And InfoWars; Cites Abusive Behavior",
+      "content_html": "<p>Twitter said it has \"permanently suspended\" the conspiracy theorist and his InfoWars outlet, citing tweets and videos posted Wednesday that violate Twitter's policy on abusive behavior.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=645352618' />",
+      "summary": "Twitter said it has \"permanently suspended\" the conspiracy theorist and his InfoWars outlet, citing tweets and videos posted Wednesday that violate Twitter's policy on abusive behavior.",
+      "image": "https://media.npr.org/assets/img/2018/09/06/gettyimages-1027117798-ec8863436320ff05a3ef48b132c4d976b3a5e01c.jpg",
+      "date_published": "2018-09-06T17:34:52-04:00",
+      "date_modified": "2018-09-06T18:30:00-04:00",
+      "author": {
+        "name": "Avie Schneider",
+        "url": "https://www.npr.org/people/348742973/avie-schneider?utm_medium=JSONFeed&utm_campaign=technology"
+      },
+      "tags": [
+        "infowars",
+        "Alex Jones",
+        "Twitter"
+      ]
+    },
+    {
+      "id": "645247376",
+      "url": "https://www.npr.org/2018/09/06/645247376/feds-charge-north-korean-cyber-operative-in-sony-hack-ransomware-attack?utm_medium=JSONFeed&utm_campaign=technology",
+      "title": "Feds Charge North Korean Cyber-Operative In Sony Hack, Ransomware Attack",
+      "content_html": "<p>The Justice Department has charged North Korean national Park Jin Hyok in connection with some of the most destructive cyberattacks in recent years to hit computers across the globe.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=645247376' />",
+      "summary": "The Justice Department has charged North Korean national Park Jin Hyok in connection with some of the most destructive cyberattacks in recent years to hit computers across the globe.",
+      "image": "https://media.npr.org/assets/img/2018/09/06/gettyimages-970704074-5ceff6e7b51495e44d2c5ce22979f7aa57d3cfa7.jpg",
+      "date_published": "2018-09-06T13:28:00-04:00",
+      "date_modified": "2018-09-06T23:08:00-04:00",
+      "author": {
+        "name": "Ryan Lucas",
+        "url": "https://www.npr.org/people/544275644/ryan-lucas?utm_medium=JSONFeed&utm_campaign=technology",
+        "avatar": "https://media.npr.org/assets/img/2018/04/17/lucas-photo_vert-22b7dcb2775c10dffd96d5f2bc85b7f619b4ab56.jpg"
+      },
+      "attachments": [
+        {
+          "url": "https://ondemand.npr.org/anon.npr-mp3/npr/atc/2018/09/20180906_atc_feds_charge_north_korean_cyber-operative_in_sony_hack_ransomware_attack.mp3?orgId=1&d=219&p=645156670&story=645247376&t=progseg&e=645156670&seg=11&ft=rss&f=645156670",
+          "mime_type": "audio/mp3",
+          "title": "Listen to the Story",
+          "duration_in_seconds": 219
+        },
+        {
+          "url": "https://ondemand.npr.org/npr-mp4/npr/atc/2018/09/20180906_atc_feds_charge_north_korean_cyber-operative_in_sony_hack_ransomware_attack.mp4?orgId=1&d=219&p=645156670&story=645247376&t=progseg&e=645156670&seg=11&ft=rss&f=645156670",
+          "mime_type": "audio/aac",
+          "title": "Listen to the Story",
+          "duration_in_seconds": 219
+        },
+        {
+          "url": "https://ondemandhls.npr.org/nprhls//npr/atc/2018/09/20180906_atc_feds_charge_north_korean_cyber-operative_in_sony_hack_ransomware_attack/master.m3u8?orgId=1&d=219&p=645156670&story=645247376&t=progseg&e=645156670&seg=11&ft=rss&f=645156670",
+          "mime_type": "audio/m3u8",
+          "title": "Listen to the Story",
+          "duration_in_seconds": 219
+        }
+      ]
+    },
+    {
+      "id": "642565632",
+      "url": "https://www.npr.org/2018/09/06/642565632/what-happens-when-a-i-takes-the-wheel?utm_medium=JSONFeed&utm_campaign=technology",
+      "title": "What Happens When A.I. Takes The Wheel?",
+      "content_html": "<p>In his new book <em>Autonomy</em>, Lawrence Burns, formerly with General Motors, argues that self-driving, electric cars are inevitable. In an interview with NPR, he addresses the now \u00e2\u0080\u0094 and the future.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=642565632' />",
+      "summary": "In his new book Autonomy, Lawrence Burns, formerly with General Motors, argues that self-driving, electric cars are inevitable. In an interview with NPR, he addresses the now \u00e2\u0080\u0094 and the future.",
+      "image": "https://media.npr.org/assets/img/2018/08/28/gettyimages-1023954618-bc1fd0ca02dbac86a3c88ad20db66f41b99ed0ba.jpg",
+      "date_published": "2018-09-06T12:04:00-04:00",
+      "date_modified": "2018-09-07T14:25:00-04:00",
+      "author": {
+        "name": "Jasmine Garsd"
+      },
+      "tags": [
+        "Lawrence D. Burns",
+        "autonomy",
+        "self-driving cars",
+        "Tesla",
+        "Silicon Valley",
+        "GM",
+        "Detroit"
+      ]
+    },
+    {
+      "id": "645530909",
+      "url": "https://the1a.org/shows/2018-09-06/big-tech?utm_medium=JSONFeed&utm_campaign=technology",
+      "title": "Big Tech Goes To Washington...Again",
+      "content_html": "<p>What are Facebook and Twitter doing to govern their platforms? And, where's Google?</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=645530909' />",
+      "summary": "What are Facebook and Twitter doing to govern their platforms? And, where's Google?",
+      "image": "https://media.npr.org/wp-content/uploads/2018/09/1027071074-594x594.jpg",
+      "date_published": "2018-09-06T10:18:30-04:00",
+      "date_modified": "2018-09-07T10:17:00-04:00",
+      "attachments": [
+        {
+          "url": "https://downloads.wamu.org/mp3/1a/18/09/a1180906-2.mp3?orgId=305&d=2111&p=645530191&story=645530909&t=progseg&e=645530191&seg=2&ft=rss&f=645530191",
+          "mime_type": "audio/mp3",
+          "duration_in_seconds": 2111
+        }
+      ]
+    },
+    {
+      "id": "645140933",
+      "url": "https://www.npr.org/2018/09/06/645140933/facebook-use-changing-among-young-users?utm_medium=JSONFeed&utm_campaign=technology",
+      "title": "Facebook Use Changing Among Young Users",
+      "content_html": "<p>A new study shows that younger Americans are changing the way they interact with Facebook.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=645140933' />",
+      "summary": "A new study shows that younger Americans are changing the way they interact with Facebook.",
+      "date_published": "2018-09-06T05:04:00-04:00",
+      "date_modified": "2018-09-06T14:58:00-04:00",
+      "author": {
+        "name": "Jasmine Garsd",
+        "url": "https://www.npr.org/people/297147616/jasmine-garsd?utm_medium=JSONFeed&utm_campaign=technology",
+        "avatar": "https://media.npr.org/assets/img/2015/06/09/jas_sq-65629bf5b22b4998fcfa77fbd788f7c300482132.jpg"
+      },
+      "attachments": [
+        {
+          "url": "https://ondemand.npr.org/anon.npr-mp3/npr/me/2018/09/20180906_me_facebook_use_changing_among_young_users.mp3?orgId=1&d=141&p=645131296&story=645140933&t=progseg&e=645131296&seg=12&ft=rss&f=645131296",
+          "mime_type": "audio/mp3",
+          "title": "Listen to the Story",
+          "duration_in_seconds": 141
+        },
+        {
+          "url": "https://ondemand.npr.org/npr-mp4/npr/me/2018/09/20180906_me_facebook_use_changing_among_young_users.mp4?orgId=1&d=141&p=645131296&story=645140933&t=progseg&e=645131296&seg=12&ft=rss&f=645131296",
+          "mime_type": "audio/aac",
+          "title": "Listen to the Story",
+          "duration_in_seconds": 141
+        },
+        {
+          "url": "https://ondemandhls.npr.org/nprhls//npr/me/2018/09/20180906_me_facebook_use_changing_among_young_users/master.m3u8?orgId=1&d=141&p=645131296&story=645140933&t=progseg&e=645131296&seg=12&ft=rss&f=645131296",
+          "mime_type": "audio/m3u8",
+          "title": "Listen to the Story",
+          "duration_in_seconds": 141
+        }
+      ]
+    },
+    {
+      "id": "644973392",
+      "url": "https://www.npr.org/2018/09/05/644973392/facebook-says-its-making-strides-in-rooting-out-malicious-activity-at-senate-hea?utm_medium=JSONFeed&utm_campaign=technology",
+      "title": "Facebook Says It's Making Strides In Rooting Out Malicious Activity At Senate Hearing",
+      "content_html": "<p>Big tech bosses were scheduled to return to the Senate Intelligence Committee on Wednesday to talk about their efforts to resist being used as tools in foreign information warfare campaigns against the United States.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=644973392' />",
+      "summary": "Big tech bosses were scheduled to return to the Senate Intelligence Committee on Wednesday to talk about their efforts to resist being used as tools in foreign information warfare campaigns against the United States.",
+      "date_published": "2018-09-05T16:26:00-04:00",
+      "date_modified": "2018-09-05T19:18:00-04:00",
+      "author": {
+        "name": "Ryan Lucas",
+        "url": "https://www.npr.org/people/544275644/ryan-lucas?utm_medium=JSONFeed&utm_campaign=technology",
+        "avatar": "https://media.npr.org/assets/img/2018/04/17/lucas-photo_vert-22b7dcb2775c10dffd96d5f2bc85b7f619b4ab56.jpg"
+      },
+      "attachments": [
+        {
+          "url": "https://ondemand.npr.org/anon.npr-mp3/npr/atc/2018/09/20180905_atc_facebook_says_its_making_strides_in_rooting_out_malicious_activity_at_senate_hearing.mp3?orgId=1&d=254&p=644772572&story=644973392&t=progseg&e=644772572&seg=5&ft=rss&f=644772572",
+          "mime_type": "audio/mp3",
+          "title": "Listen to the Story",
+          "duration_in_seconds": 254
+        },
+        {
+          "url": "https://ondemand.npr.org/npr-mp4/npr/atc/2018/09/20180905_atc_facebook_says_its_making_strides_in_rooting_out_malicious_activity_at_senate_hearing.mp4?orgId=1&d=254&p=644772572&story=644973392&t=progseg&e=644772572&seg=5&ft=rss&f=644772572",
+          "mime_type": "audio/aac",
+          "title": "Listen to the Story",
+          "duration_in_seconds": 254
+        },
+        {
+          "url": "https://ondemandhls.npr.org/nprhls//npr/atc/2018/09/20180905_atc_facebook_says_its_making_strides_in_rooting_out_malicious_activity_at_senate_hearing/master.m3u8?orgId=1&d=254&p=644772572&story=644973392&t=progseg&e=644772572&seg=5&ft=rss&f=644772572",
+          "mime_type": "audio/m3u8",
+          "title": "Listen to the Story",
+          "duration_in_seconds": 254
+        }
+      ]
+    },
+    {
+      "id": "644629018",
+      "url": "https://www.npr.org/2018/09/05/644629018/marco-rubio-clashes-in-capitol-with-alex-jones-i-ll-take-care-of-you-myself?utm_medium=JSONFeed&utm_campaign=technology",
+      "title": "Marco Rubio Clashes With Alex Jones In Capitol: 'I'll Take Care Of You Myself'",
+      "content_html": "<p>On a day of hearings about Big Tech and free speech, Twitter CEO Jack Dorsey is talking to a House panel after Florida Sen. Marco Rubio sparred with conspiracy-monger Alex Jones.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=644629018' />",
+      "summary": "On a day of hearings about Big Tech and free speech, Twitter CEO Jack Dorsey is talking to a House panel after Florida Sen. Marco Rubio sparred with conspiracy-monger Alex Jones.",
+      "image": "https://media.npr.org/assets/img/2018/09/05/dorsey-7fa2efa525434cf31c93786c8da761e121099cc2.jpg",
+      "date_published": "2018-09-05T13:16:00-04:00",
+      "date_modified": "2018-09-06T13:19:00-04:00",
+      "author": {
+        "name": "Miles Parks",
+        "url": "https://www.npr.org/people/395772167/miles-parks?utm_medium=JSONFeed&utm_campaign=technology",
+        "avatar": "https://media.npr.org/assets/img/2017/07/11/img_0883_vert-38ed115540e64f3bebc6347f5c8a66e355aae5e3.jpg"
+      }
+    },
+    {
+      "id": "644844174",
+      "url": "https://www.npr.org/2018/09/05/644844174/theranos-blood-testing-company-accused-of-massive-fraud-says-it-will-dissolve?utm_medium=JSONFeed&utm_campaign=technology",
+      "title": "Theranos, Blood-Testing Company Plagued By Scandal, Says It Will Dissolve",
+      "content_html": "<p>The company was once valued at $9 billion. Founder Elizabeth Holmes and another former executive are facing criminal charges, and Theranos says it does not have the cash to pay shareholders.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=644844174' />",
+      "summary": "The company was once valued at $9 billion. Founder Elizabeth Holmes and another former executive are facing criminal charges, and Theranos says it does not have the cash to pay shareholders.",
+      "image": "https://media.npr.org/assets/img/2018/09/05/gettyimages-493352638-c41ecd026f91ee4fd831efc5f9362d0fc113cbbd.jpg",
+      "date_published": "2018-09-05T13:07:00-04:00",
+      "date_modified": "2018-09-05T15:41:00-04:00",
+      "author": {
+        "name": "Laurel Wamsley",
+        "url": "https://www.npr.org/people/463234136/laurel-wamsley?utm_medium=JSONFeed&utm_campaign=technology"
+      },
+      "tags": [
+        "theranos",
+        "Department of Justice",
+        "Securities and Exchange Commission",
+        "Elizabeth Holmes"
+      ]
+    },
+    {
+      "id": "644607908",
+      "url": "https://www.npr.org/2018/09/05/644607908/facebook-twitter-heavies-set-to-appear-at-senate-hearing-google-may-be-mia?utm_medium=JSONFeed&utm_campaign=technology",
+      "title": "Senate Committee Vents About Hijacking Of Big Tech For Information War",
+      "content_html": "<p>The Senate intelligence committee gets an update from Big Tech about how companies are fighting \"active measures\" like those waged against the U.S. in 2016.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=644607908' />",
+      "summary": "The Senate intelligence committee gets an update from Big Tech about how companies are fighting \"active measures\" like those waged against the U.S. in 2016.",
+      "image": "https://media.npr.org/assets/img/2018/09/04/sandberg_01-4e8f5df364b4e08f0d7ef8be8a807e6b34b49ab0.jpg",
+      "date_published": "2018-09-05T05:00:00-04:00",
+      "date_modified": "2018-09-05T14:04:00-04:00",
+      "author": {
+        "name": "Tim Mak",
+        "url": "https://www.npr.org/people/577125263/tim-mak?utm_medium=JSONFeed&utm_campaign=technology",
+        "avatar": "https://media.npr.org/assets/img/2018/04/17/npr_84364431_full_vert-ba5ff3e9efe3084b63ae9d7cafc5dd409a73bd51.jpg"
+      },
+      "attachments": [
+        {
+          "url": "https://ondemand.npr.org/anon.npr-mp3/npr/me/2018/09/20180905_me_facebook_twitter_heavies_set_to_appear_at_senate_hearing_google_may_be_mia.mp3?orgId=1&d=209&p=644755463&story=644607908&t=progseg&e=644755463&seg=4&ft=rss&f=644755463",
+          "mime_type": "audio/mp3",
+          "title": "Listen to the Story",
+          "duration_in_seconds": 209
+        },
+        {
+          "url": "https://ondemand.npr.org/npr-mp4/npr/me/2018/09/20180905_me_facebook_twitter_heavies_set_to_appear_at_senate_hearing_google_may_be_mia.mp4?orgId=1&d=209&p=644755463&story=644607908&t=progseg&e=644755463&seg=4&ft=rss&f=644755463",
+          "mime_type": "audio/aac",
+          "title": "Listen to the Story",
+          "duration_in_seconds": 209
+        },
+        {
+          "url": "https://ondemandhls.npr.org/nprhls//npr/me/2018/09/20180905_me_facebook_twitter_heavies_set_to_appear_at_senate_hearing_google_may_be_mia/master.m3u8?orgId=1&d=209&p=644755463&story=644607908&t=progseg&e=644755463&seg=4&ft=rss&f=644755463",
+          "mime_type": "audio/m3u8",
+          "title": "Listen to the Story",
+          "duration_in_seconds": 209
+        }
+      ]
+    },
+    {
+      "id": "644618006",
+      "url": "https://www.npr.org/2018/09/04/644618006/15-women-entrepreneurs-from-saudi-arabia-visit-u-s-to-develop-their-pitches?utm_medium=JSONFeed&utm_campaign=technology",
+      "title": "15 Women Entrepreneurs From Saudi Arabia Visit U.S. To Develop Their Pitches",
+      "content_html": "<p>A Washington, D.C.-based tech incubator is hosting women entrepreneurs from Saudi Arabia who work on social problems through apps.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=644618006' />",
+      "summary": "A Washington, D.C.-based tech incubator is hosting women entrepreneurs from Saudi Arabia who work on social problems through apps.",
+      "date_published": "2018-09-04T18:14:29-04:00",
+      "date_modified": "2018-09-04T18:17:00-04:00",
+      "author": {
+        "name": "Deborah Amos",
+        "url": "https://www.npr.org/people/2100182/deborah-amos?utm_medium=JSONFeed&utm_campaign=technology",
+        "avatar": "https://media.npr.org/about/people/bios/biophotos/damos_custom-5f13fd5c8d5549a09a76a1e1d7cb40bd50ae2d21.jpg"
+      },
+      "attachments": [
+        {
+          "url": "https://ondemand.npr.org/anon.npr-mp3/npr/atc/2018/09/20180904_atc_saudi_women_tech_pitches.mp3?orgId=1&d=281&p=644460660&story=644618006&t=progseg&e=644460660&seg=9&ft=rss&f=644460660",
+          "mime_type": "audio/mp3",
+          "title": "Listen to the Story",
+          "duration_in_seconds": 281
+        },
+        {
+          "url": "https://ondemand.npr.org/npr-mp4/npr/atc/2018/09/20180904_atc_saudi_women_tech_pitches.mp4?orgId=1&d=281&p=644460660&story=644618006&t=progseg&e=644460660&seg=9&ft=rss&f=644460660",
+          "mime_type": "audio/aac",
+          "title": "Listen to the Story",
+          "duration_in_seconds": 281
+        },
+        {
+          "url": "https://ondemandhls.npr.org/nprhls//npr/atc/2018/09/20180904_atc_saudi_women_tech_pitches/master.m3u8?orgId=1&d=281&p=644460660&story=644618006&t=progseg&e=644460660&seg=9&ft=rss&f=644460660",
+          "mime_type": "audio/m3u8",
+          "title": "Listen to the Story",
+          "duration_in_seconds": 281
+        }
+      ]
+    },
+    {
+      "id": "644609752",
+      "url": "https://the1a.org/shows/2018-09-04/click-here-to-kill-everybody?utm_medium=JSONFeed&utm_campaign=technology",
+      "title": "Click Here To Kill Everybody",
+      "content_html": "<p>How many computers are you on right now?</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=644609752' />",
+      "summary": "How many computers are you on right now?",
+      "image": "https://media.npr.org/wp-content/uploads/2018/08/GettyImages-909243492.jpg",
+      "date_published": "2018-09-04T11:06:30-04:00",
+      "date_modified": "2018-09-04T15:48:00-04:00",
+      "attachments": [
+        {
+          "url": "https://downloads.wamu.org/mp3/1a/18/09/a2180904-1.mp3?orgId=305&d=1793&p=644609548&story=644609752&t=progseg&e=644609548&seg=2&ft=rss&f=644609548",
+          "mime_type": "audio/mp3",
+          "duration_in_seconds": 1793
+        }
+      ]
+    },
+    {
+      "id": "644355847",
+      "url": "https://www.npr.org/2018/09/03/644355847/are-tech-giants-doing-enough-to-fight-against-foreign-powers-trying-to-influence?utm_medium=JSONFeed&utm_campaign=technology",
+      "title": "Are Tech Giants Doing Enough To Fight Against Foreign Powers Trying To Influence Elections?",
+      "content_html": "<p>The Senate Intelligence Committee has summoned top executives from Facebook, Twitter and Google to testify on Wednesday about foreign influence campaigns.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=644355847' />",
+      "summary": "The Senate Intelligence Committee has summoned top executives from Facebook, Twitter and Google to testify on Wednesday about foreign influence campaigns.",
+      "date_published": "2018-09-03T16:51:00-04:00",
+      "date_modified": "2018-09-04T10:34:00-04:00",
+      "author": {
+        "name": "Alina Selyukh",
+        "url": "https://www.npr.org/people/447244385/alina-selyukh?utm_medium=JSONFeed&utm_campaign=technology",
+        "avatar": "https://media.npr.org/assets/img/2016/09/07/alinaselyukh-fix_vert-437967fb4ff21b069361f7c5e0fd8dd50794c436.jpg"
+      },
+      "attachments": [
+        {
+          "url": "https://ondemand.npr.org/anon.npr-mp3/npr/atc/2018/09/20180903_atc_are_tech_giants_doing_enough_to_fight_against_foreign_powers_trying_to_influence_elections.mp3?orgId=1&d=257&p=644249076&story=644355847&t=progseg&e=644249076&seg=13&ft=rss&f=644249076",
+          "mime_type": "audio/mp3",
+          "title": "Listen to the Story",
+          "duration_in_seconds": 257
+        },
+        {
+          "url": "https://ondemand.npr.org/npr-mp4/npr/atc/2018/09/20180903_atc_are_tech_giants_doing_enough_to_fight_against_foreign_powers_trying_to_influence_elections.mp4?orgId=1&d=257&p=644249076&story=644355847&t=progseg&e=644249076&seg=13&ft=rss&f=644249076",
+          "mime_type": "audio/aac",
+          "title": "Listen to the Story",
+          "duration_in_seconds": 257
+        },
+        {
+          "url": "https://ondemandhls.npr.org/nprhls//npr/atc/2018/09/20180903_atc_are_tech_giants_doing_enough_to_fight_against_foreign_powers_trying_to_influence_elections/master.m3u8?orgId=1&d=257&p=644249076&story=644355847&t=progseg&e=644249076&seg=13&ft=rss&f=644249076",
+          "mime_type": "audio/m3u8",
+          "title": "Listen to the Story",
+          "duration_in_seconds": 257
+        }
+      ]
+    },
+    {
+      "id": "643909884",
+      "url": "https://www.npr.org/2018/09/01/643909884/california-lawmakers-pass-net-neutrality-bill?utm_medium=JSONFeed&utm_campaign=technology",
+      "title": "California Lawmakers Pass Net Neutrality Bill",
+      "content_html": "<p>The net neutrality protections, which advocates call the strongest in the country, now go to the desk of Gov. Jerry Brown.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=643909884' />",
+      "summary": "The net neutrality protections, which advocates call the strongest in the country, now go to the desk of Gov. Jerry Brown.",
+      "image": "https://media.npr.org/assets/img/2018/09/01/ap_18244030376569_wide-66fd5cb7fdd39dc64ac6f044bedbf979cac3e269.jpg",
+      "date_published": "2018-09-01T08:11:03-04:00",
+      "author": {
+        "name": "James Doubek",
+        "url": "https://www.npr.org/people/506716641/james-doubek?utm_medium=JSONFeed&utm_campaign=technology"
+      }
+    },
+    {
+      "id": "643582365",
+      "url": "https://www.npr.org/2018/08/31/643582365/twitter-public-policy-director-on-how-company-monitors-content?utm_medium=JSONFeed&utm_campaign=technology",
+      "title": "Twitter Public Policy Director On How Company Monitors Content",
+      "content_html": "<p>NPR's Steve Inskeep talks with Carlos Monje, Twitter's head of public policy, about how the company is responding to misinformation on its platform ahead of the midterm elections.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=643582365' />",
+      "summary": "NPR's Steve Inskeep talks with Carlos Monje, Twitter's head of public policy, about how the company is responding to misinformation on its platform ahead of the midterm elections.",
+      "date_published": "2018-08-31T05:14:00-04:00",
+      "date_modified": "2018-08-31T14:10:00-04:00",
+      "attachments": [
+        {
+          "url": "https://ondemand.npr.org/anon.npr-mp3/npr/me/2018/08/20180831_me_twitter_public_policy_director_on_how_company_monitors_content.mp3?orgId=1&d=447&p=643574024&story=643582365&t=progseg&e=643574024&seg=4&ft=rss&f=643574024",
+          "mime_type": "audio/mp3",
+          "title": "Listen to the Story",
+          "duration_in_seconds": 447
+        },
+        {
+          "url": "https://ondemand.npr.org/npr-mp4/npr/me/2018/08/20180831_me_twitter_public_policy_director_on_how_company_monitors_content.mp4?orgId=1&d=447&p=643574024&story=643582365&t=progseg&e=643574024&seg=4&ft=rss&f=643574024",
+          "mime_type": "audio/aac",
+          "title": "Listen to the Story",
+          "duration_in_seconds": 447
+        },
+        {
+          "url": "https://ondemandhls.npr.org/nprhls//npr/me/2018/08/20180831_me_twitter_public_policy_director_on_how_company_monitors_content/master.m3u8?orgId=1&d=447&p=643574024&story=643582365&t=progseg&e=643574024&seg=4&ft=rss&f=643574024",
+          "mime_type": "audio/m3u8",
+          "title": "Listen to the Story",
+          "duration_in_seconds": 447
+        }
+      ]
+    }
+  ]
+}
